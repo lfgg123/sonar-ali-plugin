@@ -1,0 +1,13 @@
+{
+  "title": "Package should be named in lowercase characters",
+  "status": "ready",
+  "remediation": {
+    "func": "Constant\/Issue",
+    "constantCost": "5min"
+  },
+  "tags": [
+    "bug",
+    "pitfall"
+  ],
+  "defaultSeverity": "MAJOR"
+}

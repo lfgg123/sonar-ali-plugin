@@ -43,6 +43,8 @@ public final class RulesList {
             .add(AbstractClassNameCheck.class)
             .add(ExceptionClassNameCheck.class)
             .add(ArrayNameCheck.class)
+            .add(BooleanPropertyCheck.class)
+            .add(PackageNamingCheck.class)
       .build();
   }
 
